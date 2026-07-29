@@ -2,13 +2,17 @@
 title: "Fit verdict: orchestrator-handoff → garrytan/gstack"
 created: 2026-07-17
 execution: knowledge-work
-status: verdict delivered; direction is fork-first build (/orchestrate v1 built, /implement planned in 003)
+status: deferred — verdict superseded by the decision to drop /orchestrate + /implement (not shipped, not upstreamed)
 skill_under_review: ~/dev/agent-skills/orchestrator-handoff
 grounding: .context/repo-recon/profile.md · docs/designs/SELF_LEARNING_V0.md
 related: 2026-07-17-003-feat-implement-worker-plan.md (the /implement implementation plan)
 ---
 
 # Fit verdict: `orchestrator-handoff` → garrytan/gstack
+
+> **Status: DEFERRED, not shipped.** The verdict below is retained as a design record only. The `/orchestrate` and
+> `/implement` work it recommended is dropped and is not pushed upstream; a future revival rebuilds fresh rather than
+> reusing the dropped `feat/orchestrate` branch. Current status: the `orchestrator-handoff-gstack-fit-verdict` memory.
 
 ## Verdict
 

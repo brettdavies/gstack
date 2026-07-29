@@ -1,13 +1,19 @@
 ---
 title: "/implement worker (orchestrate's build atom) - Plan"
 artifact_contract: ce-unified-plan/v1
-artifact_readiness: implementation-ready
+artifact_readiness: deferred
+status: deferred — not shipped; /implement + /orchestrate dropped, not upstreamed
 product_contract_source: ce-brainstorm
 execution: code
 created: 2026-07-17
 ---
 
 # /implement worker (orchestrate's build atom) - Plan
+
+> **Status: DEFERRED, not shipped.** This plan is not being implemented. The `/implement` and `/orchestrate` work it
+> specifies is dropped and is not pushed upstream; the `feat/orchestrate` branch that held the prototype is deleted. A
+> future revival rebuilds from this plan fresh rather than rebasing the old branch. Current status: the
+> `orchestrator-handoff-gstack-fit-verdict` memory.
 
 **Product Contract preservation:** Product Contract unchanged. R1-R8, the Goal Capsule, and the
 Strategy record are carried verbatim from the requirements-only version; planning added the

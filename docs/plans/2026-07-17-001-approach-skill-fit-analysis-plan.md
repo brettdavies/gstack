@@ -2,11 +2,15 @@
 title: "Approach-plan: skill → garrytan/gstack fit analysis"
 created: 2026-07-17
 execution: knowledge-work
-status: executed — skill received + analyzed; outcomes in 002 (verdict) and 003 (/implement plan)
+status: deferred — analysis complete; the /orchestrate + /implement build it led to is dropped (not shipped, not upstreamed)
 grounding: .context/repo-recon/
 ---
 
 # Approach-plan: skill → garrytan/gstack fit analysis
+
+> **Status: DEFERRED, not shipped.** The `/orchestrate` and `/implement` work this analysis led to is not being pursued
+> and is not pushed upstream. Retained as a design record only; a future revival rebuilds fresh rather than reusing the
+> dropped `feat/orchestrate` branch. Current status: the `orchestrator-handoff-gstack-fit-verdict` memory.
 
 > **Status: executed.** The skill was `orchestrator-handoff` (`~/dev/agent-skills/orchestrator-handoff`). Stages 1–3 ran
 > and produced the fit verdict (`2026-07-17-002-orchestrator-handoff-gstack-fit-verdict.md`). The direction settled on a
